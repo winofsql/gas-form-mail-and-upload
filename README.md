@@ -31,7 +31,9 @@ function sendMail( e ) {
 }
 ```
 
-![image](https://user-images.githubusercontent.com/1501327/166095827-3963db32-cd52-4ffb-af09-37ebe41a6828.png)
+![image](https://user-images.githubusercontent.com/1501327/166095827-3963db32-cd52-4ffb-af09-37ebe41a6828.png)\
+![image](https://user-images.githubusercontent.com/1501327/166095881-3456dcb2-d87b-43a6-bdc4-bfb7b667c569.png)
+
 
 <br><br>
 
